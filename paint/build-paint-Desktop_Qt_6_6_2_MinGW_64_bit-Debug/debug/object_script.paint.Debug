@@ -1,0 +1,14 @@
+debug/figure.o
+debug/main.o
+debug/mas.o
+debug/oval.o
+debug/paint.o
+debug/paintscene.o
+debug/romb.o
+debug/square.o
+debug/moc_figure.o
+debug/moc_oval.o
+debug/moc_paint.o
+debug/moc_paintscene.o
+debug/moc_romb.o
+debug/moc_square.o
